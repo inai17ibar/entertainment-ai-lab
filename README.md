@@ -12,8 +12,8 @@
 
 | # | プロトタイプ | 一言 | リンク |
 |---|------------|------|--------|
-| **#1** | **AFTERPOST** | ライブ終演後の感想からシェアカードを作り、X へ投稿できるファン向けツール | [GitHub](https://github.com/inai17ibar/after-post) |
-| **#2** | **vlog-cockpit** | Vlogger のための企画→公開ワークフローツール。v0.1（カンバン＋投稿カレンダー）公開中 | [Live](https://vlog-cockpit.vercel.app) / [GitHub](https://github.com/inai17ibar/vlog-cockpit) |
+| **#1** | **AFTERPOST** | ライブ終演後の感想からシェアカードを作り、X へ投稿できるファン向けツール | [Live](https://after-post.pages.dev) |
+| **#2** | **vlog-cockpit** | Vlogger のための企画→公開ワークフローツール。v0.1（カンバン＋投稿カレンダー）公開中 | [Live](https://vlog-cockpit.vercel.app) |
 | #3 | （NOW PRINTING） | 次の一枚は週次棚卸しから | [ネタ帳](neta/INDEX.md) |
 
 ---
